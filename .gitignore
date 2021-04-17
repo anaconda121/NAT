@@ -1,0 +1,9 @@
+*.csv
+/data
+# *.txt
+.DS_Store
+*.sqlite3
+settings.json
+*.pyc
+*.htaccess
+tablesorter/

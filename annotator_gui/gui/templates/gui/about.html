@@ -1,0 +1,40 @@
+{% extends "./base.html" %}
+{% load static %}
+{% load notes_filter %}
+
+{% block content %}
+
+<div class="five columns card">
+
+    <div class="bg-white">
+        <div class="padding-top-bot">
+            <h4>Team</h4>
+
+            <p>The NLP Annotator Tool was developed by the <a href="https://www.massgeneral.org/neurology/research/mind-data-science-lab" target="_blank">MIND Data Science Lab</a> at Massachusetts General Hospital.</p>
+
+            <p><b>Core Developers:</b> <a href="mailto:ttyagi@mgh.harvard.edu">Tanish Tyagi</a></p>
+
+            <p><b>Principal Investigator:</b> <a href="mailto:SDAS5@mgh.harvard.edu">Dr. Sudeshna Das</a></p>
+
+        </div>
+    </div>
+
+</div>
+
+
+<div class="five columns card-left">
+
+    <div class="bg-white">
+        <div class="padding-top-bot">
+            <h4>Contact</h4>
+
+            <p>Please use the link below to contact our team or request new features.</p>
+
+            <div style="text-align: center; padding-top: 10px;"><a href="mailto:SDAS5@mgh.harvard.edu?cc=ttyagi@mgh.harvard.edu&subject=NLP Annotator Tool &body={{email_form}}"><button class="small-button">Contact</button></a></div>
+
+        </div>
+    </div>
+
+</div>
+
+{% endblock content %}

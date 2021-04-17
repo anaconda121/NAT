@@ -1,0 +1,113 @@
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non)\s*remember
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) recall
+(forget|forgot|forgetful|forgetfulness)
+repetitive\s*questions
+(0|zero) (memory|recall)
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) (history|historian)
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) follow instructions
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) (make decisions|decision making)
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) identify
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) (plan|planning)
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) (organize|organizing)
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) follow commands
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) follow directions
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) follow steps
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) recognize
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) (word finding|finding words)
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) insight
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) judgement
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) problem solving
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) understand
+confused
+sundowns
+cognition
+mental\s*status
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) mental status
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) cognitive skills
+disoriented
+orientated\s*to\s*person
+oriented\s*to\s*self
+oriented\s*to\s*name
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) oriented
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) orient to time
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non)  know (where|who|why)
+disorganized
+incoherent
+Illogical
+thought\s*process
+talks\s*nonsense
+(nonsensical|non-sensical|nonsensible|non-sensible)
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) to express coherent thoughts
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) make sense
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) rational
+(delusional|delirum)
+(delusions|Delusions)
+suspicious
+(paranoia|paranoid)
+(Hallucinate|Hallucinating|Hallucinated)
+Psychosis
+wandering
+restless
+fidget
+pulling\s*at 
+rummaging
+unpacking
+repetitive\s*behavior
+obsessive\s*behavior
+Impulsive
+pulling\s*on
+(fidgety|fidgeting)
+picking\s*at
+(restless|restlessly)
+restraints
+agitat
+aggressive
+(combative|combativeness)
+uncooperative
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) (comply|compliant)
+non-compliant
+care\s*resistance
+verbally\s*aggressive
+physically\s*aggressive
+Agitated
+(unable\s*to|cannot|couldn't|can't|does\s*not|not|0|does\s*not\s*have\s*capacity\s*to|difficulties\s*with|difficulty|trouble\s*to|hard\s*to|non) (cooperative|cooperate)
+non-cooperative 
+resistant
+noncompliant
+(restless|restlessness)
+(apathy|apathetic)
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) motivation
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) interest
+(poor|unreliable|impaired|lack\s*of |little|decreased|worsening|changing|limited\s*by|flat|blunted|restricted|dimished) affect
+affect
+unmotivated
+disinhibited
+impulsive
+(anxiety|anxious)
+scared
+afraid
+nervous
+(fear|fearful)
+irritable
+defensive
+easily annoyed 
+easily angry 
+easily upset 
+(labile|lability)
+\s*MMSE\s*
+\s*MOCA\s*
+\s*Alzheimer\s*
+\s*Dementia\s*
+\s*MCI\s*
+Donepezil
+Rivastigmine
+Galantamine
+Memantine
+Aripiprazole 
+Haloperidol 
+Clozapine 
+Olanzapine 
+Quetiapine 
+Risperidone 
+Ziprasidone
+(parkinson|parkinson’s|parkinsonism)

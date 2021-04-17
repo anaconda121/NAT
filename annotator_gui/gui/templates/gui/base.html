@@ -1,0 +1,68 @@
+{% load static %}
+
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon"href="{% static 'favicon.ico' %}">
+    <link rel="stylesheet" href="{%  static  'css/base.css'  %}">
+    <link rel="stylesheet" href="{%  static  'css/custom.css'  %}">
+
+    <!-- CSS from external sources e.g. boostrap -->
+    <link rel="stylesheet" href="{%  static  'css/external.css'  %}">
+
+    <!-- CSS for tablesorter -->
+    <link rel="stylesheet" href="{%  static  'css/tablesorter.css'  %}">
+    
+    <!-- Boostrap CDN -->
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" rel="nofollow" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous"> -->
+    
+    <title>NLP Annotator</title>
+
+</head>
+
+<body>
+
+    <div class="title-banner row">
+        <div class="title-container">
+            <h2 class="h2-title">NLP ANNOTATOR TOOL</h2>
+        </div>
+
+        <div class="nav-container"></div>
+        {% if user.is_authenticated %}
+            <!-- <div class="vl"></div> -->
+            <a href="/logout"><button class="button-title">Log Out</button></a>
+            <a href="/consensus"><button class="button-title" style="width: 120px;">Consensus</button></a>
+            <a href="/about"><button class="button-title">About</button></a>
+            <a href="/profile"><button class="button-title">Profile</button></a>
+            <a href="/home"><button class="button-title">Home</button></a>
+        {% else %}
+            <a href="/login"><button class="button-title">Log In</button></a>
+            <a href="/about"><button class="button-title">About</button></a>
+        {% endif %}
+    </div>
+    </div>
+
+    {% include './includes/messages.html' %}
+
+    <div class="app-body row">
+
+        {% block content %}
+
+        {% endblock content %}
+
+    </div>
+
+    <!-- load jQuery and tablesorter scripts -->
+    <script type="text/javascript" src="{% static 'js/jquery-3.5.1.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/tablesorter/jquery.tablesorter.min.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/tablesorter/jquery.tablesorter.widgets.js' %}"></script>
+    
+    <script src="{% static 'js/script.js' %}"></script>
+
+</body>
+
+</html>
